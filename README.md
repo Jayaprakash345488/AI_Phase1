@@ -48,7 +48,7 @@ Before you begin, ensure you have the following dependencies installed:
 
 Clone this repository to your local machine:
 
-git clone https://github.com/Aravindh006/Create-a-chat-bot-in-python
+git clone https://github.com/Jayaprakash345488/Create-a-chat-bot-in-python.git
 
 Change to the project directory:
 
